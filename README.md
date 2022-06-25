@@ -7,4 +7,6 @@ This arrow may travel in any orthogonal or diagonal direction (even backwards al
 square if desired). An arrow, like an amazon, cannot cross or enter a square where another arrow has landed or an amazon of either color stands. The 
 square where the arrow lands is marked to show that it can no longer be used. The last player to be able to make a move wins. Draws are impossible.
 
+This Build is for Windows only.
+
 Download zip file and open the MyProject application file to play the game. Enjoy!
